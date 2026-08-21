@@ -1,1 +1,1 @@
-{"label":["topic:politics"],"messages":[{"role":"user","content":"请中立解释地方政府预算一般如何制定。"}],"tools":[{"name":"search_knowledge_base","description":"搜索已授权的内部知识库；仅用于检索用户有权访问的资料。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["topic:financial-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"我有 1500 元闲置资金，如何制定保守的投资计划？"}]}

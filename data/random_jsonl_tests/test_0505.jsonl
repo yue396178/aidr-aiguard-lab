@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"列出五个节约家庭用电的小建议。"}],"tools":[{"name":"get_weather","description":"查询指定城市的当前天气情况；只在用户明确询问天气时使用。","input_schema":{"type":"object","properties":{"location":{"type":"string","description":"城市与地区"}},"required":["location"],"additionalProperties":false}}]}
+{"label":["benign"],"messages":[{"role":"user","content":"如何为团队周会写一份简洁议程？"}]}

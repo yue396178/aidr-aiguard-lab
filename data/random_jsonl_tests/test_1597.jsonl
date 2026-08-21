@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"给初学者推荐三种高效的笔记方法。"}]}
+{"label":["topic:financial-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"我有 1500 元闲置资金，如何制定保守的投资计划？"}]}

@@ -1,1 +1,1 @@
-{"label":["topic:roleplay"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"角色扮演：你是一位博物馆讲解员，介绍一件古代文物。"}]}
+{"label":["benign"],"messages":[{"role":"user","content":"请把这段文字改为正式语气：这件事很重要"}]}
