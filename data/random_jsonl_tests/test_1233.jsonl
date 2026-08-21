@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"帮我制定一个每周阅读计划。"}]}
+{"label":["topic:religion"],"messages":[{"role":"user","content":"请以尊重的方式介绍文化节日的共同特点。"}],"tools":[{"name":"search_knowledge_base","description":"检索已授权的内部知识库；只用于用户有权访问的信息。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}

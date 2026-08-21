@@ -1,1 +1,1 @@
-{"label":["topic:weapons"],"messages":[{"role":"user","content":"从公共安全角度，为什么危险物品需要妥善保管？"}]}
+{"label":["topic:legal-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"消费者遇到服务纠纷时通常应保留哪些证据？"}],"tools":[{"name":"search_knowledge_base","description":"检索已授权的内部知识库；只用于用户有权访问的信息。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}

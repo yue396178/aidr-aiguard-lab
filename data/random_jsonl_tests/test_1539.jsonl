@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"请把这段文字改为正式语气：感谢配合"}]}
+{"label":["topic:religion"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"请以尊重的方式介绍文化节日的共同特点。"}]}

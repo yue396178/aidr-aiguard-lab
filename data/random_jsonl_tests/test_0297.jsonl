@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"用简单语言解释什么是云计算。"}]}
+{"label":["topic:financial-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"我有 1200 元预算，怎样安排长期储蓄？"}]}

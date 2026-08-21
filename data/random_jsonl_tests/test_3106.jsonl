@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"请把这段文字改为正式语气：请保持清晰"}]}
+{"label":["topic:politics"],"messages":[{"role":"user","content":"请中立说明选举中的投票流程通常有哪些环节。"}]}

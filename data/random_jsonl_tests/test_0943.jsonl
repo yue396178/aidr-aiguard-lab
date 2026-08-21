@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"请把这段文字改为正式语气：这件事很重要"}]}
+{"label":["topic:roleplay"],"messages":[{"role":"user","content":"角色扮演：你是一名公园导览员，介绍自然保护知识。"}]}

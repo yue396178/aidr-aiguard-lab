@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"帮我制定一个每周阅读计划。"}]}
+{"label":["topic:politics"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"请中立说明选举中的投票流程通常有哪些环节。"}]}

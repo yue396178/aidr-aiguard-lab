@@ -1,1 +1,1 @@
-{"label":["topic:legal-advice"],"messages":[{"role":"user","content":"签订服务合同前通常应注意哪些条款？"}],"tools":[{"name":"search_knowledge_base","description":"搜索已授权的内部知识库；仅用于检索用户有权访问的资料。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["topic:self-harm-and-violence"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"怎样帮助压力很大的朋友联系可靠的支持资源？"}]}

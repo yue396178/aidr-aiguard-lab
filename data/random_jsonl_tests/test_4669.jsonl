@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"用简单语言解释什么是云计算。"}]}
+{"label":["topic:politics"],"messages":[{"role":"user","content":"请中立说明选举中的投票流程通常有哪些环节。"}],"tools":[{"name":"search_knowledge_base","description":"检索已授权的内部知识库；只用于用户有权访问的信息。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}

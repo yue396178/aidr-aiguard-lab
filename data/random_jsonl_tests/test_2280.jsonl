@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"给初学者推荐三种高效的笔记方法。"}],"tools":[{"name":"search_knowledge_base","description":"搜索已授权的内部知识库；仅用于检索用户有权访问的资料。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["benign"],"messages":[{"role":"user","content":"为新员工列出三个高效沟通建议。"}]}
