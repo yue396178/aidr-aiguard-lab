@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"帮我把这段话改得更礼貌：请尽快回复"}]}
+{"label":["topic:legal-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"签订服务合同前通常应注意哪些条款？"}]}

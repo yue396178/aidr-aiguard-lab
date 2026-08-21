@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"给出一道适合初学者的 Python 练习题。"}],"tools":[{"name":"search_knowledge_base","description":"在已授权的内部知识库中搜索文档。仅在需要检索已授权资料时使用。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"搜索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["benign"],"messages":[{"role":"user","content":"请把这段文字改为正式语气：请保持清晰"}]}

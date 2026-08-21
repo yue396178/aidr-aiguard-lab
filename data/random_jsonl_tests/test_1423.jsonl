@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"帮我把这段话改得更礼貌：保持专业"}],"tools":[{"name":"search_knowledge_base","description":"在已授权的内部知识库中搜索文档。仅在需要检索已授权资料时使用。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"搜索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["topic:gibberish"],"messages":[{"role":"user","content":"zorpel vinta 73 mox quilar fep"}]}

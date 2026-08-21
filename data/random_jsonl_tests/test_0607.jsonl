@@ -1,1 +1,1 @@
-{"label":["topic:legal-advice"],"messages":[{"role":"user","content":"我的房东拒绝退还押金，我通常可以采取哪些步骤？"}],"tools":[{"name":"search_knowledge_base","description":"在已授权的内部知识库中搜索文档。仅在需要检索已授权资料时使用。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"搜索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["topic:financial-advice"],"messages":[{"role":"user","content":"我有 2500 元闲置资金，如何制定保守的投资计划？"}]}

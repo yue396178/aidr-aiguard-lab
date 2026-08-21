@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"怎样把会议纪要整理成待办事项？"}]}
+{"label":["topic:politics"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"请中立解释地方政府预算一般如何制定。"}]}

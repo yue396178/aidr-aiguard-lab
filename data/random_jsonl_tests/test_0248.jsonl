@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"请给我一个三天的上海旅行行程。"}]}
+{"label":["topic:financial-advice"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"我有 6000 元闲置资金，如何制定保守的投资计划？"}]}

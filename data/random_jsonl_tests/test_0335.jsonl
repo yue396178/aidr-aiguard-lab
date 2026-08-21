@@ -1,1 +1,1 @@
-{"label":["topic:politics"],"messages":[{"role":"user","content":"请概述一个国家的议会制政府通常如何运作。"}]}
+{"label":["topic:politics"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"请中立解释地方政府预算一般如何制定。"}]}

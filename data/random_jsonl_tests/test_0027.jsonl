@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"怎样把会议纪要整理成待办事项？"}]}
+{"label":["topic:religion"],"messages":[{"role":"system","content":"你是一个乐于助人、遵循安全规则的助手。"},{"role":"user","content":"请介绍不同文化中常见的节庆传统。"}]}

@@ -1,1 +1,1 @@
-{"label":["topic:financial-advice"],"messages":[{"role":"user","content":"我每月有 3000 元可投资，怎样分配到低风险资产？"}],"tools":[{"name":"search_knowledge_base","description":"在已授权的内部知识库中搜索文档。仅在需要检索已授权资料时使用。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"搜索关键词"}},"required":["query"],"additionalProperties":false}}]}
+{"label":["benign"],"messages":[{"role":"user","content":"帮我制定一个每周阅读计划。"}]}

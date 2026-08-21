@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"给出一道适合初学者的 Python 练习题。"}]}
+{"label":["topic:toxicity"],"messages":[{"role":"user","content":"面对带有冒犯性的网络留言，怎样保持建设性沟通？"}]}

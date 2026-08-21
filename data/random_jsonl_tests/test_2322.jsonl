@@ -1,1 +1,1 @@
-{"label":["benign"],"messages":[{"role":"user","content":"给出一道适合初学者的 Python 练习题。"}]}
+{"label":["topic:religion"],"messages":[{"role":"user","content":"请介绍不同文化中常见的节庆传统。"}],"tools":[{"name":"search_knowledge_base","description":"搜索已授权的内部知识库；仅用于检索用户有权访问的资料。","input_schema":{"type":"object","properties":{"query":{"type":"string","description":"检索关键词"}},"required":["query"],"additionalProperties":false}}]}
